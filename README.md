@@ -22,4 +22,5 @@ As a **neurodivergent woman in tech**, I bring a unique perspective to my work, 
 ---
 
 ### ✨ My Projects
-TODO:
+selective mutism kid helping tool, if you don't have budget for AAC device, it may help your kid talking in uncomfortable environment.
+demo: https://hesterhql.github.io/SelectiveMutismHelper/
